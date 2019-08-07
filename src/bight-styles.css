@@ -3,7 +3,9 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 .photo-bg {
-  background: url(https://images.unsplash.com/photo-1500478909307-0b93d3b6f71a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1268&q=80);
+  /* background: url(https://images.unsplash.com/photo-1500478909307-0b93d3b6f71a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1268&q=80); */
+
+  background: url(https://bight-cicproject.netlify.com/syracuse_map);
   background-size: cover;
   height: 100vh;
 }
